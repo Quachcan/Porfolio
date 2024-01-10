@@ -183,6 +183,10 @@ section .header{
     transition: all 0.3 ease;
 }
 
+.skills .card-media .media-2 button{
+    margin-top: 50px;
+}
+
 .skills .card-media:hover{
     background-color: #32323232;
     border-color: #fff;
@@ -277,6 +281,7 @@ section .header{
     border: 2px solid transparent;
     border-radius: 15px;
     transition: all 0.3 ease;
+    align-items: center;
 }
 
 .projects .card:hover{
@@ -326,6 +331,7 @@ section .header{
     color: #fff;
     background-color: transparent;
     border: 2px solid #fff;
+    margin-top: 20px;
 }
 
 .btn{ 
