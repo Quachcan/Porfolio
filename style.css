@@ -312,7 +312,7 @@ section .header{
     color: #fff;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 600;
     border-bottom: 2px dashed #fff;
 }
